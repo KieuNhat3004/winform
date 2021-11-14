@@ -1,0 +1,9 @@
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\bin\Debug\gameduaxe_arduino_control.exe.config
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\bin\Debug\gameduaxe_arduino_control.exe
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\bin\Debug\gameduaxe_arduino_control.pdb
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\obj\Debug\gameduaxe_arduino_control.csprojResolveAssemblyReference.cache
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\obj\Debug\gameduaxe_arduino_control.Form1.resources
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\obj\Debug\gameduaxe_arduino_control.Properties.Resources.resources
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\obj\Debug\gameduaxe_arduino_control.csproj.GenerateResource.Cache
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\obj\Debug\gameduaxe_arduino_control.exe
+C:\Users\LyBerry\Documents\Winform\gameduaxe_arduino_control\gameduaxe_arduino_control\obj\Debug\gameduaxe_arduino_control.pdb
