@@ -1,0 +1,9 @@
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\bin\Debug\vantay_nhomPham.exe.config
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\bin\Debug\vantay_nhomPham.exe
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\bin\Debug\vantay_nhomPham.pdb
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\obj\Debug\vantay_nhomPham.csprojResolveAssemblyReference.cache
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\obj\Debug\vantay_nhomPham.Form1.resources
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\obj\Debug\vantay_nhomPham.Properties.Resources.resources
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\obj\Debug\vantay_nhomPham.csproj.GenerateResource.Cache
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\obj\Debug\vantay_nhomPham.exe
+C:\Users\LyBerry\Documents\Winform\vantay_nhomPham\vantay_nhomPham\obj\Debug\vantay_nhomPham.pdb
